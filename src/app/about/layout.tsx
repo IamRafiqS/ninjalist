@@ -6,7 +6,7 @@ export default function DashboardLayout({
     return (
       <section>
         {/* Include shared UI here e.g. a header or sidebar */}
-        <h5>This is a layout</h5>
+        <h5>About page layout</h5>
         <nav></nav>
    
         {children}
